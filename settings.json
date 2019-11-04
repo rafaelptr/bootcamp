@@ -1,0 +1,91 @@
+{
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_212",
+    "terminal.integrated.env.windows": {
+        "PATH":"C:\\Windows\\System32;C:\\Program Files\\Java\\jdk1.8.0_212\\bin;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\rafae\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Docker Toolbox;C:\\Users\\rafae\\.dotnet\\tools;C:\\JavaRepositories\\Gradle\\gradle-5.4.1\\bin;C:\\Users\\rafae\\AppData\\Roaming\\npm;C:\\Users\\rafae\\.flutter\\bin;C:\\Program Files\\heroku\\bin;%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;C:\\JavaRepositories\\Maven\\apache-maven-3.6.1\\bin"
+    },
+    "terminal.integrated.env.linux": {
+        "PATH":"C:\\Windows\\System32;C:\\Program Files\\Java\\jdk1.8.0_212\\bin;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\rafae\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Docker Toolbox;C:\\Users\\rafae\\.dotnet\\tools;C:\\JavaRepositories\\Gradle\\gradle-5.4.1\\bin;C:\\Users\\rafae\\AppData\\Roaming\\npm;C:\\Users\\rafae\\.flutter\\bin;C:\\Program Files\\heroku\\bin;%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;C:\\JavaRepositories\\Maven\\apache-maven-3.6.1\\bin"
+    },
+    "terminal.integrated.env.osx": {
+        "PATH":"C:\\Windows\\System32;C:\\Program Files\\Java\\jdk1.8.0_212\\bin;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\rafae\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Docker Toolbox;C:\\Users\\rafae\\.dotnet\\tools;C:\\JavaRepositories\\Gradle\\gradle-5.4.1\\bin;C:\\Users\\rafae\\AppData\\Roaming\\npm;C:\\Users\\rafae\\.flutter\\bin;C:\\Program Files\\heroku\\bin;%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;C:\\JavaRepositories\\Maven\\apache-maven-3.6.1\\bin"
+    },
+    "breadcrumbs.enabled": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.gitattributes": true,
+        "**/.gitignore": true,
+        "**/.mvn": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.vscode*": true,
+        "**/mvnw*": true,
+        "**/target*": true
+    },
+    "maven.terminal.useJavaHome": true,
+    "maven.view": "hierarchical",
+    "maven.pomfile.autoUpdateEffectivePOM": true,
+    "maven.executable.path": "C:\\JavaRepositories\\Maven\\apache-maven-3.6.1\\bin\\mvn.cmd",
+    "files.autoSave": "onFocusChange",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "terminal.integrated.rendererType": "dom",
+    "files.associations": {
+        "*.dart": "dart"
+    },
+    "gitlens.advanced.messages": {
+        "suppressFileNotUnderSourceControlWarning": true
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "python.jediEnabled": false,
+    "git.enableSmartCommit": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "maven.terminal.favorites": [
+        {
+            "alias": "clean install",
+            "command": "clean install"
+        },
+        {
+            "alias": "clean install quiet",
+            "command": "clean install -q"
+        },
+        {
+            "alias": "clean install offline",
+            "command": "clean install -o"
+        },
+        {
+            "alias": "clean install quiet offline",
+            "command": "clean install -q -o"
+        },
+        {
+            "alias": "clean install skiptests",
+            "command": "clean install -DskipTests"
+        },
+        {
+            "alias": "clean install skiptests quiet",
+            "command": "clean install -DskipTests -q"
+        },
+        {
+            "alias": "clean install skiptests offline",
+            "command": "clean install -DskipTests -o"
+        },
+        {
+            "alias": "clean install skiptests quiet offline",
+            "command": "clean install -DskipTests -q -o"
+        }
+    ],
+    "maven.executable.options": "-T 4",
+    "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -javaagent:\"C:\\Users\\rafae\\.vscode\\extensions\\gabrielbb.vscode-lombok-0.9.9/server/lombok.jar\"",
+    "window.zoomLevel": 0
+}
