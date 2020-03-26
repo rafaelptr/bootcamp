@@ -2,15 +2,10 @@
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "java.home": "C:\\Program Files\\Java\\jdk1.8.0_212",
-    "terminal.integrated.env.windows": {
-        "PATH":"C:\\Windows\\System32;C:\\Program Files\\Java\\jdk1.8.0_212\\bin;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\rafae\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Docker Toolbox;C:\\Users\\rafae\\.dotnet\\tools;C:\\JavaRepositories\\Gradle\\gradle-5.4.1\\bin;C:\\Users\\rafae\\AppData\\Roaming\\npm;C:\\Users\\rafae\\.flutter\\bin;C:\\Program Files\\heroku\\bin;%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;C:\\JavaRepositories\\Maven\\apache-maven-3.6.1\\bin"
-    },
-    "terminal.integrated.env.linux": {
-        "PATH":"C:\\Windows\\System32;C:\\Program Files\\Java\\jdk1.8.0_212\\bin;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\rafae\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Docker Toolbox;C:\\Users\\rafae\\.dotnet\\tools;C:\\JavaRepositories\\Gradle\\gradle-5.4.1\\bin;C:\\Users\\rafae\\AppData\\Roaming\\npm;C:\\Users\\rafae\\.flutter\\bin;C:\\Program Files\\heroku\\bin;%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;C:\\JavaRepositories\\Maven\\apache-maven-3.6.1\\bin"
-    },
-    "terminal.integrated.env.osx": {
-        "PATH":"C:\\Windows\\System32;C:\\Program Files\\Java\\jdk1.8.0_212\\bin;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\rafae\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Docker Toolbox;C:\\Users\\rafae\\.dotnet\\tools;C:\\JavaRepositories\\Gradle\\gradle-5.4.1\\bin;C:\\Users\\rafae\\AppData\\Roaming\\npm;C:\\Users\\rafae\\.flutter\\bin;C:\\Program Files\\heroku\\bin;%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;C:\\JavaRepositories\\Maven\\apache-maven-3.6.1\\bin"
-    },
+    "terminal.integrated.shell.windows": "${env:SHELL_PATH}",
+    "terminal.integrated.shellArgs.windows": [
+      "/k", "${env:CMDER_PATH}\\vendor\\init.bat", "/noautorun"
+    ],
     "breadcrumbs.enabled": true,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
